@@ -12,3 +12,5 @@ Github repo for the BNP Causal Inference short course.
 - `meps2011.csv` is a subset of the MEPS dataset.
 
 - `ISBA_2022_slides.pdf` contain the slides.
+
+- This code requires the `dbarts`, `bcf`, `SoftBart`, and `BartMediate` packages to run. The packages `dbarts` and `bcf` are available on CRAN, while `SoftBart` and `BartMediate` are on GitHub at www.github.com/theodds/SoftBart and www.github.com/theodds/BartMediate respectively.
