@@ -19,7 +19,7 @@ Github repo for the BNP Causal Inference short course.
 
 ## Forthcoming Book
 
-- Daniels, M.J., Linero, A.R., and Roy, J.A. (2022+) Bayesian Nonparametrics for Causal Inference and Missing Data, CRC Press/Chapman & Hall
+- Daniels, M.J., Linero, A.R., and Roy, J.A. (2022+) Bayesian Nonparametrics for Causal Inference and Missing Data, CRC Press/Chapman & Hall.
 
 ## BART
 
@@ -54,13 +54,13 @@ Github repo for the BNP Causal Inference short course.
 - Roy, J.A., Lum, K., Daniels, M.J., Zeldow, B.Z., Dworkin, J., and Lo Re
   III, V. (2018). Bayesian nonparametric generative models for causal
   inference with missing at random covariates. _Biometrics_, 74,
-  1193--1202. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7568223/)
+  1193-1202. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7568223/)
 
 - Xu, D., Daniels, M.J., and Winterstein, A.G. (2018). A Bayesian nonparametric approach to causal inference on quantiles, _Biometrics_, 74, 986-996. [Link.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7551426/)
 
 - Xu, Y., Scharfstein, D., Mueller, P., and Daniels, M.J. (2022) A Bayesian
   Nonparametric Approach for Evaluating the Causal Effect of Treatment in
-  Randomized Trials with Semi-Competing Risks. _Biostatistics_, 23, 34--49. [Link.](https://academic.oup.com/biostatistics/article/23/1/34/5816038?login=false)
+  Randomized Trials with Semi-Competing Risks. _Biostatistics_, 23, 34-49. [Link.](https://academic.oup.com/biostatistics/article/23/1/34/5816038?login=false)
 
 ## Missing Data
 
